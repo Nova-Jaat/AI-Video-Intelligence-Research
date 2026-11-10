@@ -1,0 +1,64 @@
+# Video Analysis: How I Grew My AI Startup From $0 to $10K in 30 Days
+
+## 1. Metadata & Source
+- **Video Number:** 20 of 31
+- **Title:** How I Grew My AI Startup From $0 to $10K in 30 Days
+- **Channel / Creator:** Ty Chen
+- **YouTube Link:** [https://www.youtube.com/watch?v=Q5i6uXsmREI](https://www.youtube.com/watch?v=Q5i6uXsmREI)
+- **Business Category:** AI B2B Startup Growth & Direct Outbound Sales
+- **Beginner Viability Score:** 7.0 / 10
+
+---
+
+## 2. Executive Summary
+Ty Chen reveals how he scaled a specialized AI automation tool from zero to $10,000 MRR within 30 days using hyper-personalized cold email and LinkedIn voice note outreach targeting a hyper-specific buyer persona, with zero paid advertising.
+
+---
+
+## 3. The Money Math & Economic Reality
+- 60 hyper-personalized messages per day, 5% reply rate = 3 replies/day.
+- 50% of replies schedule a demo = 1.5 demos per day.
+- 25% of demos convert to customers at $200-$500/month.
+- After 30 days: 10+ paying customers = $2,000 to $5,000 MRR minimum.
+
+---
+
+## 4. Step-by-Step Implementation Blueprint
+1. **Identify ONE Target Buyer:** e.g. Marketing Agency Owners with 2 to 15 employees who use Zapier.
+2. **Build ICP Lead List:** Apollo.io free tier (50 exports/month), filter by company size, industry, job title.
+3. **Personalized Loom Video Outreach:** 60-second screen recording of THEIR specific website with the pitch script.
+4. **Reverse Risk Offer:** "Try it free for 2 weeks. If you don't save 3 hours/week, cancel with 1 click and owe nothing."
+
+---
+
+## 5. Required Tools & Software Stack
+- **Lead Database:** Apollo.io (Free 50/month)
+- **Cold Email Automation:** Instantly.ai / Smartlead
+- **Video Outreach:** Loom (Free)
+- **Payments:** Stripe
+
+---
+
+## 6. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$0 – $50** |
+| **Technical Difficulty** | **5.5 / 10** |
+| **Time to First Dollar** | **14 – 30 Days** |
+
+---
+
+## 7. Action Plan for a Complete Beginner
+```markdown
+Step 1: Pick a specific service (e.g. "AI-powered social media scheduling for dentists").
+Step 2: Use Apollo.io to build a list of 100 dental practice managers.
+Step 3: Record 10 personalized Loom videos using the proved script structure.
+Step 4: Send and follow up every 3 days.
+Step 5: Close your first client by Day 14.
+```
+
+---
+
+## 8. Final Verdict for Fast Cash
+- **Score:** 7.0 / 10
+- **Summary:** An exemplary case study of the power of personalized direct sales over passive content marketing. Requires consistent outreach discipline.

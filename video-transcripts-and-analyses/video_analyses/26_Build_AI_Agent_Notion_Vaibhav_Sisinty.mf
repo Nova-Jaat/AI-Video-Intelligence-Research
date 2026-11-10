@@ -1,0 +1,64 @@
+# Video Analysis: Build Your Own AI Agent in 3 Steps Parts (Notion Co-Founder Explains)
+
+## 1. Metadata & Source
+- **Video Number:** 26 of 31
+- **Title:** Build Your Own AI Agent in 3 Steps Parts (Notion Co-Founder Explains)
+- **Channel / Creator:** Vaibhav Sisinty
+- **YouTube Link:** [https://www.youtube.com/watch?v=nAkfg5TUBKk](https://www.youtube.com/watch?v=nAkfg5TUBKk)
+- **Business Category:** Autonomous AI Agents & Enterprise Knowledge Systems
+- **Beginner Viability Score:** 6.5 / 10
+
+---
+
+## 2. Executive Summary
+Vaibhav Sisinty breaks down the 3-layer architecture of autonomous AI agents. Rather than chatbots that respond to single questions, AI Agents perceive context, plan across multiple steps, and execute real-world actions (send emails, query databases, book meetings). This knowledge positions consultants to build and sell production-grade agent systems.
+
+---
+
+## 3. The 3-Layer AI Agent Architecture
+
+**Layer 1: The Brain (LLM Reasoning)**
+- Claude, GPT-4, or Gemini acts as the central reasoning engine.
+- Configured via detailed system prompts.
+
+**Layer 2: Memory (Knowledge Storage)**
+- Short-term: current conversation thread.
+- Long-term: vector database (Pinecone, Chroma, Supabase Vector) containing business knowledge.
+- External: Real-time APIs (Google Calendar, CRM, inventory).
+
+**Layer 3: Tools (Actions)**
+- Web search, Send emails, Read/write spreadsheets, Book calendar appointments, Create CRM records.
+
+---
+
+## 4. Required Tools & Software Stack
+- **LLM:** Anthropic Claude API / OpenAI API
+- **Agent Framework:** LangChain (Python), Flowise (No-Code), Voiceflow
+- **Vector Database:** Supabase Vector (Free tier)
+- **Workflow:** Make.com / n8n
+
+---
+
+## 5. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$0 – $20** (API credits) |
+| **Technical Difficulty** | **6.5 / 10** |
+| **Time to First Dollar** | **21 – 45 Days** |
+
+---
+
+## 6. Action Plan for a Complete Beginner
+```markdown
+Step 1: Set up Flowise (free, no-code) on Railway.app.
+Step 2: Connect a Claude API key to a Flowise chatbot node.
+Step 3: Upload a business's FAQ PDF as a knowledge base.
+Step 4: Connect the chatbot widget to a client's website.
+Step 5: Charge $500 for installation + $150/month maintenance.
+```
+
+---
+
+## 7. Final Verdict for Fast Cash
+- **Score:** 6.5 / 10
+- **Summary:** Outstanding conceptual framework for high-value enterprise AI systems. Start with no-code builders (Flowise, n8n) before attempting raw Python multi-agent systems.

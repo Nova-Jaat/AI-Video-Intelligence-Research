@@ -1,0 +1,73 @@
+# Video Analysis: 12 INSANE Claude Code Use Cases To Make Money In 2027
+
+## 1. Metadata & Source
+- **Video Number:** 21 of 31
+- **Title:** 12 INSANE Claude Code Use Cases To Make Money In 2027
+- **Channel / Creator:** Christian Peverelli
+- **YouTube Link:** [https://www.youtube.com/watch?v=IxpB4kjK620](https://www.youtube.com/watch?v=IxpB4kjK620)
+- **Business Category:** AI Coding Services & Automation Agency Revenue
+- **Beginner Viability Score:** 7.5 / 10
+
+---
+
+## 2. Executive Summary
+Christian Peverelli walks through 12 concrete, immediately monetizable use cases for Claude Code, ranging from simple data extraction scripts to complex document parsers, internal business dashboards, and legacy system migrations. Each use case is paired with a real-world client deliverable and market pricing.
+
+---
+
+## 3. The Money Math & Economic Reality
+- Invoice PDF to Google Sheets Parser: $500 – $1,500 flat
+- Custom Shopify Product Data Migrator: $800 – $2,000 flat
+- Local Business Lead Scraper + Email Enricher: $500 – $1,000 flat
+- Internal CRM Dashboard (Supabase + Next.js): $2,000 – $5,000 flat
+- Monthly Maintenance Retainer per Client: $300 – $500/month
+
+---
+
+## 4. The 12 Use Cases
+1. Invoice/PDF Data Extractor - Parses PDFs into spreadsheets for accountants.
+2. Lead Scraper + Contact Enricher.
+3. Legacy HTML to Next.js Migrator.
+4. Email Response Auto-Drafter.
+5. Social Media Repurposing Bot.
+6. E-Commerce Bulk Product Description Generator.
+7. CRM Data Cleaner/Deduplicator.
+8. Custom Analytics Reporter.
+9. Appointment Booking Chatbot (via Cal.com).
+10. YouTube Transcript Summarizer.
+11. Competitor Research Bot.
+12. Document-Based FAQ Generator.
+
+---
+
+## 5. Required Tools & Software Stack
+- **AI Coding:** Claude Code / Cursor IDE
+- **Backend:** Supabase / Node.js / Python
+- **Frontend:** Next.js + Tailwind CSS
+- **Deployment:** Vercel / Railway / Render
+
+---
+
+## 6. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$20/mo** (Claude Pro subscription) |
+| **Technical Difficulty** | **5.5 / 10** |
+| **Time to First Dollar** | **14 – 30 Days** |
+
+---
+
+## 7. Action Plan for a Complete Beginner
+```markdown
+Step 1: Choose Use Case #1 (Invoice PDF to Google Sheets Parser).
+Step 2: Ask Claude Code to build it. Test with 3 real invoice samples.
+Step 3: Record a 2-minute Loom demo of the working tool.
+Step 4: Message 15 local accounting firms or bookkeepers with the demo.
+Step 5: Charge $750 for the custom deployment.
+```
+
+---
+
+## 8. Final Verdict for Fast Cash
+- **Score:** 7.5 / 10
+- **Summary:** Outstanding blueprint for high-ticket B2B technical services. Use cases are laser-focused, proven, and immediately pitchable to real businesses.

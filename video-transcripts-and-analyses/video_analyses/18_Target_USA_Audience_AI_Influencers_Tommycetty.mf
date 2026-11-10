@@ -1,0 +1,71 @@
+# Video Analysis: How to Target a USA Audience with AI Influencers on Instagram & Facebook
+
+## 1. Metadata & Source
+- **Video Number:** 18 of 31
+- **Title:** How to Target a USA Audience with AI Influencers on Instagram & Facebook
+- **Channel / Creator:** tommycetty
+- **YouTube Link:** [https://www.youtube.com/watch?v=tBUnJfGE5bI](https://www.youtube.com/watch?v=tBUnJfGE5bI)
+- **Business Category:** AI Influencer Accounts & Geographic CPM Arbitrage
+- **Beginner Viability Score:** 5.5 / 10
+
+---
+
+## 2. Executive Summary
+Tommycetty walks through the technical and behavioral steps to force Instagram and Facebook's distribution algorithm to serve content to US audiences rather than local audiences, primarily for creators outside the USA who want access to higher CPM brand deals, Fanvue/Patreon subscriptions, and affiliate offers that pay significantly more per conversion from US buyers.
+
+---
+
+## 3. The Money Math & Economic Reality
+- Brand deal for 100k US-primarily followers: $1,000 – $3,000 per post
+- Same deal for 100k South/Southeast Asian followers: $80 – $250 per post
+- Differential: 10x to 20x higher income from the same effort if audience is US-based.
+
+---
+
+## 4. Step-by-Step Implementation Blueprint
+1. **Create a Visually Consistent AI Persona:**
+   - Use Midjourney or Fooocus to generate 50 images of a single consistent character.
+   - Fix the face seed so all future generations maintain the same identity.
+2. **US Distribution Technical Setup:**
+   - US eSIM (from companies like Airalo or USMobile, $5-$15/month).
+   - Set device timezone to US Eastern or Pacific time.
+   - Create the Instagram account while connected exclusively via the US eSIM.
+3. **US Content Signals:**
+   - Use trending US audio from US creators' viral reels.
+   - Tag US locations (Los Angeles, Miami Beach, New York City).
+   - Use US-centric hashtags.
+   - Time publishing to 7 PM – 10 PM US Eastern.
+4. **Monetization:**
+   - US brand deals, Fanvue/Patreon memberships ($10-$29/month), US affiliate offers.
+
+---
+
+## 5. Required Tools & Software Stack
+- **Image Generation:** Midjourney / Fooocus / Stable Diffusion
+- **US eSIM:** Airalo / USMobile ($5–$15/month)
+- **Video Editing:** CapCut (Free)
+
+---
+
+## 6. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$5 – $15** (US eSIM) |
+| **Technical Difficulty** | **6 / 10** |
+| **Time to First Dollar** | **30 – 60 Days** |
+
+---
+
+## 7. Action Plan for a Complete Beginner
+```markdown
+Step 1: Focus on US-resonant audio and content topics first.
+Step 2: Post at US peak hours regardless of your local timezone.
+Step 3: Check Instagram Insights > Audience > Regions to confirm US distribution.
+Step 4: Only upgrade to a US eSIM after confirming content reaches US audiences organically.
+```
+
+---
+
+## 8. Final Verdict for Fast Cash
+- **Score:** 5.5 / 10
+- **Summary:** High upside if executed correctly, but the technical geo-targeting workarounds add layers of risk and complexity overwhelming for a true beginner.

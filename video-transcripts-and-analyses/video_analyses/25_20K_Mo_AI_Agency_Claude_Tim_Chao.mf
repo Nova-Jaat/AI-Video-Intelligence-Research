@@ -1,0 +1,78 @@
+# Video Analysis: How I'd Start a $20K/Month AI Agency With Claude in 30 Days
+
+## 1. Metadata & Source
+- **Video Number:** 25 of 31
+- **Title:** How I'd Start a $20K/Month AI Agency With Claude in 30 Days
+- **Channel / Creator:** Tim Chao
+- **YouTube Link:** [https://www.youtube.com/watch?v=vGRWOxAL1UA](https://www.youtube.com/watch?v=vGRWOxAL1UA)
+- **Business Category:** AI Automation Agency (AAA) & High-Ticket Service Business
+- **Beginner Viability Score:** 8.5 / 10
+
+---
+
+## 2. Executive Summary
+Tim Chao lays out a 30-day operational plan to launch a specialized AI automation agency targeting mid-market businesses in one specific vertical, delivering Claude-powered automation workflows, and generating $20,000/month in recurring revenue within 4-6 weeks.
+
+---
+
+## 3. The Money Math & Economic Reality
+- 4 clients x $3,000 setup fee = $12,000 initial revenue.
+- 4 clients x $1,500/month maintenance = $6,000 MRR.
+- Month 3: Hit $20,000+ MRR with 8 retainer clients.
+
+---
+
+## 4. The 30-Day Blueprint
+
+**Days 1-7: Specialization**
+- Choose ONE vertical: Real Estate, Solar, Med Spas, Law Firms, or Mortgage Brokers.
+- Build a demo AI automation using Claude API + Make.com solving the industry's #1 pain point.
+
+**Days 8-14: Outbound (50 emails/day)**
+- Apollo.io for lead lists. Instantly.ai for cold email.
+- Subject: "[First Name] - saw you're doing [specific thing]"
+- Body: Show speed-to-lead automation demo, ask if it's okay to send 3-minute Loom.
+
+**Days 15-25: Close & Deliver**
+- Personalized Loom demo for each interested prospect.
+- 2-tier offer: $2,500 Setup + $1,000/month OR $4,000 Setup + $750/month.
+
+**Days 26-30: Optimize**
+- Hire a VA for prospect list building.
+- Focus exclusively on demos, closing, and onboarding.
+
+---
+
+## 5. Required Tools & Software Stack
+- **AI Automation:** Make.com ($10/month) + Voiceflow (Free) + Claude API
+- **Lead Database:** Apollo.io (Free tier)
+- **Cold Email:** Instantly.ai ($37/month)
+- **Video Outreach:** Loom (Free)
+- **Payments:** Stripe
+
+---
+
+## 6. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$30 – $100** |
+| **Technical Difficulty** | **5 / 10** (No-code tools, logical workflow thinking) |
+| **Time to First Dollar** | **10 – 21 Days** |
+
+---
+
+## 7. Action Plan for a Complete Beginner
+```markdown
+Day 1: Choose Med Spa or Dental clinic industry.
+Day 2: Build "Missed Call Text-Back + AI Qualification Bot" on Make.com.
+Day 3: Create 90-second Loom demo of the bot.
+Day 4: Find 100 dental clinics on Apollo.io.
+Day 5: Send 20 personalized outreach emails per day.
+Day 7+: Schedule demos and close first client.
+```
+
+---
+
+## 8. Final Verdict for Fast Cash
+- **Score:** 8.5 / 10
+- **Summary:** The most complete, structured, and immediately executable path to building a 5-figure monthly service business in this entire video library.

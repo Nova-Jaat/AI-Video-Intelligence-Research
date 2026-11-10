@@ -1,0 +1,68 @@
+# Video Analysis: How I Make $5,000/Day Posting AI TikTok Shop Videos
+
+## 1. Metadata & Source
+- **Video Number:** 29 of 31
+- **Title:** How I Make $5,000/Day Posting AI TikTok Shop Videos
+- **Channel / Creator:** patrickinvests
+- **YouTube Link:** [https://www.youtube.com/watch?v=hBO8-osGMaI](https://www.youtube.com/watch?v=hBO8-osGMaI)
+- **Business Category:** TikTok Shop Affiliate Marketing & AI Video Commerce
+- **Beginner Viability Score:** 7.5 / 10
+
+---
+
+## 2. Executive Summary
+Patrick details how creators generate $5,000 to $20,000 per day posting AI-generated product review videos with TikTok's integrated Shop checkout, earning 10% to 30% commissions on impulse-driven physical product sales directly within TikTok. No shipping, inventory, or customer service required.
+
+---
+
+## 3. The Money Math & Economic Reality
+- Average viral product: $25-$45 retail. Commission: 10%-20% = $2.50 to $9/unit.
+- 2M organic views, 0.08% purchase rate = 1,600 units at $6 avg commission = $9,600 from 1 video.
+- 5 videos/day, 1 goes semi-viral (200k-500k views) = $500 to $2,500/day consistently.
+
+---
+
+## 4. Step-by-Step Implementation Blueprint
+1. **TikTok Shop Setup:** Apply for Creator Affiliate (requires 5,000 followers or US TikTok Shop seller status).
+2. **Product Research:** FastMoss.com or Kalodata.com for products with accelerating daily orders and >15% commission.
+3. **Script:** Claude: "Write 5 TikTok 20-second product demo scripts with problem-agitation hook + soft CTA."
+4. **AI Avatar (Optional):** Creatify.ai or HeyGen for photorealistic AI spokesperson.
+5. **Post with TikTok Shop product tag** in video and caption.
+
+---
+
+## 5. Required Tools & Software Stack
+- **TikTok Shop Affiliate:** TikTok Creator Center (Free)
+- **Product Research:** FastMoss.com / Kalodata.com ($20-$50/month)
+- **AI Avatar (Optional):** Creatify.ai / HeyGen ($25/month)
+- **Video Editing:** CapCut (Free)
+
+---
+
+## 6. Beginner ("Noob") Reality Check
+| Metric | Assessment |
+| :--- | :--- |
+| **Upfront Capital Needed** | **$0 – $30** |
+| **Technical Difficulty** | **5 / 10** |
+| **Time to First Dollar** | **14 – 30 Days** |
+
+### Critical Pitfalls:
+- AI avatar videos require AI-content disclosure under TikTok 2025/2026 synthetic content policy.
+- TikTok Shop is primarily US-focused.
+
+---
+
+## 7. Action Plan for a Complete Beginner
+```markdown
+Step 1: Grow TikTok to 5,000 followers by posting niche-related content.
+Step 2: Research trending products using FastMoss's free data.
+Step 3: Request free product samples from brands via TikTok Shop.
+Step 4: Film authentic mobile product demonstrations (more effective than AI avatars).
+Step 5: Post daily with shop tags and optimize based on click-through data.
+```
+
+---
+
+## 8. Final Verdict for Fast Cash
+- **Score:** 7.5 / 10
+- **Summary:** Massive earning potential from viral product videos. Best executed with authentic UGC rather than AI avatars for maximum algorithmic reach.
